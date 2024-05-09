@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning git bash...
 - 💞️ I’m looking to collaborate on .GitHub..
 - 📫 How to reach me email me dominikafirebolt2000@gmail.com...
-- 😄 Pronouns: .he..
+- 😄 Pronouns: .she..
 - ⚡ Fun fact: .this is not my mainstream..
 
 <!---
