@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning everything...
 - 💞️ I’m looking to collaborate on .GitHub..
 - 📫 How to reach me email me dominikafirebolt2000@gmail.com...
-- 😄 Pronouns: .she..
+- 😄 Pronouns: .he..
+- "Simplicity is the soul of efficiency." – Austin Freeman
 - ALL AT ONCE
   
 
