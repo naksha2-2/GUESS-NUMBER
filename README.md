@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @naksha2-2
-- 👀 I’m interested in getting more insights from open-source...
-- 🌱 I’m currently learning everything...
-- 💞️ I’m looking to collaborate on .GitHub..
-- 📫 How to reach me email me dominikafirebolt2000@gmail.com...
-- 😄 Pronouns: .he..
-- "Simplicity is the soul of efficiency." – Austin Freeman
-- ALL AT ONCE
-  
+Guess Number Game - C++
+ Description
+ 
+ The "Guess Number" game is a fun console-based game where the computer generates a random number, and the player has to guess it. The game provides feedback on 
+ whether the guess is too high or too low, and it continues until the player guesses the correct number.
 
-<!---
-naksha2-2/naksha2-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This game is implemented in C++ and designed to be simple to run and understand.
+
+
+Features
+
+The computer generates a random number between a specified range (e.g., 1 to 100).
+The player is prompted to guess the number.
+The game tells the player whether their guess is too high, too low, or correct.
+The game continues until the player guesses correctly.
+It tracks the number of attempts made by the player.
